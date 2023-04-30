@@ -15,7 +15,7 @@ for y in range(1,x+1) :
 print('factors of ' + str(x) + ' : ' + str(factor))    
 
 if 2==len(factor) :
-    print(str(x) + ' is a beatiful PRIME number')
+    print(str(x) + ' is a Beatiful PRIME number')
 else : 
     
-    print(str(x) + ' is not a prime number')
+    print(str(x) + ' NO ES PRIMO')
