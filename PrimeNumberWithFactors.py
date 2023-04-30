@@ -18,4 +18,4 @@ if 2==len(factor) :
     print(str(x) + ' is a Beatiful PRIME number')
 else : 
     
-    print(str(x) + ' NO ES PRIMO')
+    print(str(x) + ' NO ES Pr')
