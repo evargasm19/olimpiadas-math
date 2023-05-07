@@ -18,7 +18,7 @@ while True:
     if randomAnswer == 0:
         print('Never (Tanessi).')
     elif randomAnswer == 1:
-        print('Absolutely!')
+        print('Hard work never fail (Edwin)')
     elif randomAnswer == 2:
         print('You may rely on it.')
     elif randomAnswer == 3:
