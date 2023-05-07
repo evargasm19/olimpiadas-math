@@ -16,7 +16,7 @@ while True:
     randomAnswer = random.randrange(0, 8) # pick a random number
     
     if randomAnswer == 0:
-        print('Never (Tanessi).')
+        print('It is certain.')
     elif randomAnswer == 1:
         print('Absolutely!')
     elif randomAnswer == 2:
